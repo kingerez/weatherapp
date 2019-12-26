@@ -1,0 +1,8 @@
+.forecast-wrapper {
+  background-color: lightgray;
+  padding: 10px;
+  border: 1px solid darkgray;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
